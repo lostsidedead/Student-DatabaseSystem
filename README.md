@@ -1,4 +1,4 @@
-# Student Database System - C++ Project
+# Student Database System
 
 This project is a **Student Database System** implemented in C++. It allows users to manage student records in a database, including adding new students, displaying all students, searching for a student by ID, and deleting a student by ID.
 
